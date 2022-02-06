@@ -1,0 +1,27 @@
+.button{
+   align-items: center;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #03152c;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 5px #999;
+    align-self: center;
+  }
+  
+  .btn:hover {background-color: #035858}
+  
+  .btn:active {
+    background-color: #035858;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
