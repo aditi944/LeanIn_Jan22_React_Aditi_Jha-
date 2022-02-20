@@ -1,30 +1,9 @@
 # LeanIn_Mentorship_Jan-March_WebDev_ExpenseTracker
 
-# Initial Status
 
-![](https://github.com/Riyanshi243/LeanIn_Mentorship_Jan-March_WebDev_ExpenseTracker/blob/master/screenshots/Initial_Status.png)
 
-# All expense List
+![Screenshot (170)](https://user-images.githubusercontent.com/68181276/154850400-755294cf-2fee-4a93-a7e5-f5a18b4348a4.png)
 
-![](https://github.com/Riyanshi243/LeanIn_Mentorship_Jan-March_WebDev_ExpenseTracker/blob/master/screenshots/All_expense_list.png)
+![Screenshot (171)](https://user-images.githubusercontent.com/68181276/154850411-409c267d-71f5-4d1f-bbc1-db8d1f4a2f92.png)
 
-# Error on empty fields
-
-![](https://github.com/Riyanshi243/LeanIn_Mentorship_Jan-March_WebDev_ExpenseTracker/blob/master/screenshots/error_on_empty_fields.png)
-
-# Expense Filter by 2019
-
-![](https://github.com/Riyanshi243/LeanIn_Mentorship_Jan-March_WebDev_ExpenseTracker/blob/master/screenshots/Expense_Filter_by_2019.png)
-
-# Expense Filter by 2020
-
-![](https://github.com/Riyanshi243/LeanIn_Mentorship_Jan-March_WebDev_ExpenseTracker/blob/master/screenshots/Expense_Filter_by_2020.png)
-
-# Expense Filter by 2021
-
-![](https://github.com/Riyanshi243/LeanIn_Mentorship_Jan-March_WebDev_ExpenseTracker/blob/master/screenshots/Expense_Filter_by_2021.png)
-
-# Expense Filter by 2022
-
-![](https://github.com/Riyanshi243/LeanIn_Mentorship_Jan-March_WebDev_ExpenseTracker/blob/master/screenshots/Expense_Filter_by_2022.png)
-
+![Screenshot (172)](https://user-images.githubusercontent.com/68181276/154850422-b7dd3c77-c565-46eb-8101-cc78d18a29bd.png)
