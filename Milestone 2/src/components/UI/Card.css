@@ -1,0 +1,16 @@
+.card {
+ 
+   box-shadow: 0 2px 8px 0 rgba(245, 241, 241, 0.884);
+   transition: 0.3s;
+   border-radius: 40px;
+   border:3px solid black;
+   width:400px;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-top: 20px;
+   float:left;
+   padding-bottom: 20px;
+   margin-top: 50px;
+   margin-left: 400px;
+   text-align: left;
+  }
